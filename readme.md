@@ -1,8 +1,8 @@
 # MCQTSSMusic
 
-### 基于QQ音乐网页API开发,相关API等请参考[QQ音乐解析](https://github.com/MCQTSS/MCQTSS_QQMusic)
+### 一个基于Python开发的简易音乐播放器
 
-### 开发&设计:MCQTSS
+### 音乐播放API使用QQ音乐,相关API等请参考[QQ音乐解析](https://github.com/MCQTSS/MCQTSS_QQMusic)
 
 ### 经测试支持Windows和Debian11 x86_64
 
@@ -25,7 +25,7 @@
 | PyQt5          | 5.15.9 | 界面库                                                             |
 | pybass3_mcqtss | 0.2.0  | 基于pybass3的个人修改,[项目地址](https://github.com/MCQTSS/pybass3_modify) |
 
-#### 其他:使用[Bass](https://www.un4seen.com/)和[pybass3](https://github.com/devdave/pybass3)作为音频播放模块
+#### 使用[Bass](https://www.un4seen.com/)和[pybass3](https://github.com/devdave/pybass3)作为音频播放模块
 
 ## 其他
 
